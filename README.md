@@ -9,7 +9,7 @@
 - 👀 I’m interested in Java and Deep Learning,
 - :	💻 I’m currently learning Java and dev games with Unity.
 
-## I learning
+## I'm learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 
 ## Tools and technologies
