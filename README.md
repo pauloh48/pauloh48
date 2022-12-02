@@ -4,10 +4,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloh48&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-# 👋 Hi, I’m @pauloh48, 
-- 📚 I am a computer science student
-- 👀 I’m interested in Java and Deep Learning.
-- :	💻 I’m currently learning Java and dev games with Unity
+# 👋 Hi, I’m Paulo, 
+- 📚 I am a computer science student,
+- 👀 I’m interested in Java and Deep Learning,
+- :	💻 I’m currently learning Java and dev games with Unity.
 
 ## I learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
